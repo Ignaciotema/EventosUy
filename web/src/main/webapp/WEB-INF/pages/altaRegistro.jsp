@@ -105,7 +105,7 @@ main.contUser { padding:18px; }
                 — <span class="text-muted"><%= nombreEvento %></span>
               <% } %>
             </label>
-            <img src="<%= ctx %>/<%= imagenEdicion %>" alt="Imagen Edición"
+            <img src="<%= imagenEdicion %>" alt="Imagen Edición"
                  class="img-fluid rounded"
                  style="width:120px; height:120px; object-fit:cover;">
           </div>
