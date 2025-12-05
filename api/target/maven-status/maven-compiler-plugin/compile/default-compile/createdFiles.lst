@@ -38,6 +38,7 @@ webservices\publicadorUsuario.class
 adminStation\FechaSistema$2.class
 adminStation\AltaUsuario.class
 adminStation\Main$6.class
+Main.class
 webservices\publicadorEvento.class
 adminStation\ConsultaDeTipoDeRegistro$3.class
 adminStation\ConsultaPatrocinio.class
